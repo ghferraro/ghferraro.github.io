@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research"
-permalink: /research.md
+permalink: /research
 ---
 
 # Research stuff
