@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Research
+title: "Research"
+permalink: /research.md
 ---
 
-# About Me
+# Research stuff
 This page is all about Greg Ferraro.
