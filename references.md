@@ -5,25 +5,25 @@ permalink: /research
 ---
 
 # References
-**Prof. Zachary Brown (Co-Advisor)**
-Associate Professor
-Dept. of Agricultural \& Resource Econ. & Genetic Engineering & Society Dept
-NC State University, Raleigh, NC
-zsbrown2@ncsu.edu
+**Prof. Zachary Brown (Co-Advisor)**<br>
+Associate Professor<br>
+Dept. of Agricultural \& Resource Econ. & Genetic Engineering & Society Dept<br>
+NC State University, Raleigh, NC<br>
+zsbrown2@ncsu.edu<br>
 
-**Prof. Rod Rejesus (Co-Advisor)**
-Department Extension Leader, Professor and Extension Specialist
-Dept. of Agricultural \& Resource Econ
-NC State University, Raleigh, NC
-rmrejesu@ncsu.edu
+**Prof. Rod Rejesus (Co-Advisor)**<br>
+Department Extension Leader, Professor and Extension Specialist<br>
+Dept. of Agricultural \& Resource Econ<br>
+NC State University, Raleigh, NC<br>
+rmrejesu@ncsu.edu<br>
 
-**Prof. Junjie Wu**
-Professor and Department Head
-Dept. of Agricultural \& Resource Econ
-NC State University, Raleigh, NC
-jwu32@ncsu.edu
+**Prof. Junjie Wu**<br>
+Professor and Department Head<br>
+Dept. of Agricultural \& Resource Econ<br>
+NC State University, Raleigh, NC<br>
+jwu32@ncsu.edu<br>
 
-**Prof. Justin Baker**
-Associate Professor
-Dept. of Forestry and Enviro. Resources
-NC State University, Raleigh, NC
+**Prof. Justin Baker**<br>
+Associate Professor<br>
+Dept. of Forestry and Enviro. Resources<br>
+NC State University, Raleigh, NC<br>
