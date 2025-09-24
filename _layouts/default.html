@@ -13,7 +13,7 @@
     
     {% include head-custom.html %}
 
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
   </head>
   <body>
@@ -44,6 +44,12 @@
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
+
+        <p class="view">
+          <a href="https://www.linkedin.com/in/greg-ferraro-23164b2b/">
+            <i class="fab fa-linkedin" style="margin-right:5px;"></i> LinkedIn
+          </a>
+        </p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
