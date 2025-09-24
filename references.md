@@ -7,7 +7,7 @@ permalink: /references
 # References
 **Prof. Zachary Brown (Co-Advisor)**<br>
 Associate Professor<br>
-Dept. of Agricultural & Resource Econ. & Genetic Engineering & Society Dept<br>
+Dept. of Agricultural & Resource Econ. & Genetic Engineering & Society (GES) Dept<br>
 NC State University, Raleigh, NC<br>
 zsbrown2@ncsu.edu<br>
 
