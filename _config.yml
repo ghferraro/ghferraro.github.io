@@ -1,6 +1,6 @@
 title: Greg Ferraro
 logo: gf_Headshot.jpg
-description: Greg's page
+description: “History itself was a massive n = 1 study, irreproducible. It was what made it so difficult to learn from.”
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
