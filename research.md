@@ -10,7 +10,7 @@ Forthcoming
 # Studying the effects of Glyphosate on a national scale
 Forthcoming
 
-# Global lead exposure
+# Global lead exposure and health effects
 Forthcoming
 
 # Plants, farms, policy, and genetic engineering
