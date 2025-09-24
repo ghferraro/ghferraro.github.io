@@ -4,5 +4,14 @@ title: Research
 permalink: /research
 ---
 
-# Research stuff
-This page is all about Greg Ferraro.
+# Sea level rise on coastal agriculture
+Forthcoming
+
+# Studying the effects of Glyphosate on a national scale
+Forthcoming
+
+# Global lead exposure
+Forthcoming
+
+# Plants, farms, policy, and genetic engineering
+Forthcoming
