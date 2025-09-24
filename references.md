@@ -1,7 +1,7 @@
 ---
 layout: default
 title: References
-permalink: /research
+permalink: /references
 ---
 
 # References
