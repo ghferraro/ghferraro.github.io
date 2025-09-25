@@ -4,7 +4,3 @@ description: Experienced studying rural development and environmental health; I 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-
-author:
-  location: "Raleigh, North Carolina, USA"
-  linkedin: "greg-ferraro-23164b2b"
