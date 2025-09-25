@@ -17,6 +17,14 @@ Dept. of Agricultural & Resource Econ<br>
 NC State University, Raleigh, NC<br>
 rmrejesu@ncsu.edu<br>
 
+** Prof. Dominic Reisig**
+Professor and Extension Specialist<br>
+Dept. of Entomology and Plant Pathology[<br>
+NC State University, Raleigh, NC<br>
+ddreisig@ncsu.edu<br>
+
+# Other committee members
+
 **Prof. Junjie Wu**<br>
 Professor and Department Head<br>
 Dept. of Agricultural & Resource Econ<br>
