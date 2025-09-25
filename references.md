@@ -17,7 +17,7 @@ Dept. of Agricultural & Resource Econ<br>
 NC State University, Raleigh, NC<br>
 rmrejesu@ncsu.edu<br>
 
-** Prof. Dominic Reisig**
+**Prof. Dominic Reisig**
 Professor and Extension Specialist<br>
 Dept. of Entomology and Plant Pathology[<br>
 NC State University, Raleigh, NC<br>
