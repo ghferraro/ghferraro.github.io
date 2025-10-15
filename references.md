@@ -19,7 +19,7 @@ rmrejesu@ncsu.edu<br>
 
 **Prof. Dominic Reisig**<br>
 Professor and Extension Specialist<br>
-Dept. of Entomology and Plant Pathology[<br>
+Dept. of Entomology and Plant Pathology<br>
 NC State University, Raleigh, NC<br>
 ddreisig@ncsu.edu<br>
 
