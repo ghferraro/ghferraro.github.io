@@ -20,13 +20,28 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" style="height:200px; width:auto;" />
-        {% endif %}
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+          
+          <div class="site-intro">
+        
+          <h1>
+            <a href="{{ "/" | absolute_url }}">
+              {{ site.title | default: site.github.repository_name }}
+            </a>
+          </h1>
+        
+          {% if site.logo %}
+            <img src="{{ site.logo | relative_url }}"
+                 alt="Logo"
+                 style="height:200px; width:auto;" />
+          {% endif %}
+        
+          <p>
+            {{ site.description | default: site.github.project_tagline }}
+          </p>
+        
+        </div>
+        
+        <hr class="sidebar-divider">
 
         <p class="view"><a href="/index">Home</a></p>
 
