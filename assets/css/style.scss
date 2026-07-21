@@ -4,47 +4,77 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width: 1400px;
-  max-width: 95%;
-}
-
-section {
-  width: 900px;
+    max-width: 1400px;
+    width: 95%;
+    display: flex;
+    align-items: flex-start;
+    gap: 40px;
 }
 
 header {
-  width: 300px;
+    width: 300px;
+    flex-shrink: 0;
+}
+
+section {
+    flex: 1;
+    width: auto;
+    min-width: 0;
 }
 
 .site-intro {
-  text-align: center;
+    text-align: center;
 }
 
 .sidebar-divider {
-  margin: 15px 0;
+    margin: 15px 0;
 }
 
 p.view {
-  margin: 2px 0;
+    margin: 2px 0;
 }
 
 .research-box {
-  background: linear-gradient(135deg, #2b5876, #4e4376);
-  color: white;
-
-  padding: 20px;
-  border-radius: 12px;
-
-  margin: 20px 0;
-
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    background: linear-gradient(135deg,#2b5876,#4e4376);
+    color: white;
+    padding: 20px;
+    border-radius: 12px;
+    margin: 20px 0;
+    box-shadow: 0 4px 12px rgba(0,0,0,.15);
 }
 
 .research-box h2,
 .research-box p {
-  color: white;
+    color: white;
 }
 
 .research-box h2 {
-  margin-top: 0;
+    margin-top: 0;
+}
+
+/* Make the profile photo responsive */
+.site-intro img {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+}
+
+/* Mobile */
+@media (max-width: 900px) {
+
+    .wrapper {
+        display: block;
+        width: 95%;
+    }
+
+    header,
+    section {
+        width: auto;
+        float: none;
+        position: static;
+    }
+
+    header {
+        margin-bottom: 30px;
+    }
 }
