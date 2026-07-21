@@ -8,12 +8,14 @@
   max-width: 95%;
 }
 
-section {
-  width: 900px;
+header {
+  max-width: 300px;
+  width: 100%;
 }
 
-header {
-  width: 300px;
+section {
+  max-width: 900px;
+  width: calc(100% - 340px);
 }
 
 .site-intro {
