@@ -3,23 +3,42 @@
 
 @import "{{ site.theme }}";
 
+/* Main layout */
 .wrapper {
-  width: 1400px;
-  max-width: 95%;
+  width: 95%;
+  max-width: 1400px;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
 }
 
-section {
-  width: 900px;
-}
-
+/* Sidebar */
 header {
   width: 300px;
+  flex: 0 0 300px;
+  position: static;
 }
 
 .site-intro {
   text-align: center;
 }
 
+.site-intro img,
+.profile-photo {
+  width: 100%;
+  max-width: 200px;
+  height: auto !important;
+}
+
+/* Main content */
+section {
+  flex: 1;
+  width: auto;
+  min-width: 0;
+}
+
+/* Navigation */
 .sidebar-divider {
   margin: 15px 0;
 }
@@ -28,6 +47,8 @@ p.view {
   margin: 2px 0;
 }
 
+
+/* Research box */
 .research-box {
   background: linear-gradient(135deg, #2b5876, #4e4376);
   color: white;
@@ -49,25 +70,29 @@ p.view {
   margin-top: 0;
 }
 
+
+/* Responsive layout */
 @media screen and (max-width: 960px) {
 
+  .wrapper {
+    display: block;
+    width: 95%;
+  }
+
   header {
-    position: static !important;
-    width: 100% !important;
-    float: none !important;
-    height: auto !important;
-    overflow: visible !important;
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto 30px auto;
+    position: static;
   }
 
   section {
-    float: none !important;
-    width: 100% !important;
-    margin-left: 0 !important;
-    margin-top: 30px;
+    width: 100%;
   }
 
-  .wrapper {
-    width: 95%;
-    max-width: 1400px;
+  .site-intro img,
+  .profile-photo {
+    max-width: 160px;
   }
+
 }
